@@ -1,0 +1,3 @@
+#!/Bin/ bash/ 
+sudo adduser betty
+su-betty
